@@ -1,0 +1,15 @@
+title: Medelu Partner Documentation
+description: Integration guides for Medelu partner APIs
+baseurl: ""
+url: "https://docs.medelu.lu"
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+plugins: []
